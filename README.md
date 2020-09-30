@@ -9,6 +9,8 @@ Then install this free command set into Slack.
 2. run `/nc csm_install github:JamieDawson/serverless_chats` in Slack
 3. Run `/nc serverless_chats` in Slack
 
-![Serverless Chats Example image](https://user-images.githubusercontent.com/16840579/94647291-fd26c280-02a4-11eb-9dfa-0de4cf0974bc.png)
+
+![Serverless Chats Example image](https://user-images.githubusercontent.com/16840579/94748813-0e201400-0337-11eb-8b01-a2710274f7b5.png)
+
 
 
