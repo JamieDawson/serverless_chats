@@ -1,0 +1,6 @@
+commands:
+  hello:
+    description: Say "Hello" to the world or to the name provided.
+    parameters:
+      - name: name
+        optional: true
