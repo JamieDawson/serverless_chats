@@ -1,6 +1,6 @@
 commands:
   serverless_chats:
-    description: Say "Hello" to the world or to the name provided.
+    description: run /nc serverless_chats to display current podcast for Serverless Chats.
     parameters:
       - name: name
         optional: true
